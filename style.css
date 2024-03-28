@@ -1,0 +1,240 @@
+.navbar{
+    text-align: center;
+    background-color: #3e3e3e;
+}
+.header{
+    display: flex;
+    gap: 10%;
+}
+.body{
+    display: flex;
+    gap: 10%;
+}
+.timely{
+    display: flex;
+    gap: 10%;
+}
+.array{
+    text-align: center;
+}
+.images{
+    display: flex;
+    gap: 10%;
+}
+.website{
+    text-align: center;
+}
+.body1{
+    
+    font-size: large;
+}
+#img{
+    width: 400px;
+    height: 300px;
+}
+#pillow{
+    width: 400px;
+    height: 250px;
+}
+#lady{
+    width: 400px;
+    height: 250px;
+}
+#reach{
+    width: 1000px;
+}
+.color{
+    display: flex;
+}
+.phone{
+    display: flex;
+    gap: 5%;
+}
+.address{
+    display: flex;
+    gap: 5%;
+}
+.hours{
+    display: flex;
+    gap: 5%;
+}
+.client{
+    text-align: center;
+}
+.mills{
+    display: flex;
+    gap: 10%;
+}
+.high{
+    display: flex;
+    gap: 10%;
+}
+.map{
+    background-image:url(images/map.jpeg);
+    background-repeat: no-repeat;
+    background-position: initial;
+    background-size: cover;
+    padding: 5%;
+    width: 700px;
+    height: 400px;
+    text-align: center;
+}
+.exports{
+    background-image:url(images/green.jpeg);
+    background-repeat: no-repeat;
+    background-position: initial;
+    background-size: cover;
+    padding: 5%; 
+    width: 800px;
+    height:600px;
+    background-color: #d9d9d9;
+}
+.best{
+    text-align: center;
+}
+.contact{
+    background-color: white;
+    width: 400px;
+    height: 300px;
+}
+#number{
+    width: 50px;
+    height: 50px;
+}
+#beach{
+    width: 50px;
+    height: 50px;  
+}
+#open{
+    width: 50px;
+    height: 50px;  
+} 
+
+.explore{
+    display: flex;
+    gap: 10%;
+}
+.rasi{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    gap: 10%;
+    background-color: #3e3e3e;
+}
+.copy{
+    text-align: center;
+}
+.account{
+    display:grid;
+}
+.home{
+    display: grid;
+}
+.tr{
+    display: flex;
+    gap: 5%;
+}
+.ty{
+    display: flex;
+    gap: 5%;
+}
+
+
+ @media only screen and (max-width: 600px) {
+        
+    navbar{
+        font-size: 2px;
+    }
+    .export{
+        width: 200px;
+    }
+    .header{
+        gap: 5px;
+    }
+    .body{
+        display: grid;
+        gap: 10px;
+    } 
+    .exports{
+        background-image:url(images/green.jpeg);
+        background-repeat: no-repeat;
+        background-position: initial;
+        background-size: cover;
+        padding: 5%; 
+        width: 300px;
+        height:300px;
+        background-color: #d9d9d9;
+    }
+    timely{
+        display: grid;
+        gap: 10px;
+    }
+    .body1{
+    
+        font-size: 10px;
+    
+      }
+      .array{
+        font-size: 10px;
+      }
+      .color{
+        display: grid;
+    }
+    .images{
+        flex-wrap: wrap;
+    }
+    .client{
+        
+        font-size: 5px;
+    }
+    .discover{
+        font-size: 10px;
+    }
+    .mills{
+        display: grid;
+        gap: 10%;
+    }
+    .high{
+        flex-wrap: wrap;
+    }
+    #screen{
+        width: 200px;
+    }
+    .best{
+        font-size: 5px;
+    }
+    .world{
+        font-size: 5px;
+    }
+    .explore{
+        flex-wrap: wrap;
+    }
+    #reach{
+        width: 300px;
+    }
+    .rasi{
+        font-size: 10px;
+    }
+    .have{
+        font-size: 7px;
+    }
+    .map{
+        background-image:url(images/map.jpeg);
+        background-repeat: no-repeat;
+        background-position: initial;
+        background-size: cover;
+        padding: 10%;
+        width: 300px;
+        height: 200px;
+        text-align: center;
+    }
+    .footer{
+    
+            display: grid;
+            gap: 5px;
+    
+}
+
+ }
+        
